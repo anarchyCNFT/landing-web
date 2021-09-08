@@ -4,7 +4,8 @@ const nfts = [
 	{
 		name: "anarchy1CNFT",
 		text: "Chaotic mess on the verge of collapse. Just like our society.",
-		pictureUrl: "/images/anarchy1.jpg"
+		pictureUrl: "/images/anarchy1.jpg",
+		galleryUrl: "https://arweave.net/lmyO4Whv2oVFbogtJI17FNFTsiXiRY1QxBgWJTdRF90"
 	},
 	{
 		name: "anarchy2CNFT",
@@ -102,9 +103,14 @@ function Collection() {
 				</div>
 				<div className="col-lg-1"></div>
 				<div style={{ marginBottom: "25%" }} className="col-lg-5 d-flex align-items-center">
-					<div className="align-middle">
+					<div className="align-middle d-flex flex-column">
 						<h3>{nft.name}</h3>
 						<p>{nft.text}</p>
+						{nft.galleryUrl ?
+							<a href={nft.galleryUrl} style={{ marginTop: "20px" }}  target="_blank" className="btn btn-info">Gallery <br /> (Arweave permaweb)</a>
+							:
+							<> </>
+						}
 					</div>
 
 				</div>
