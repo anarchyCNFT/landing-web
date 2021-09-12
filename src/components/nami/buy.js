@@ -209,7 +209,7 @@ function Buy() {
 	[])
 	return (
 		<>
-			<button type="button" disabled style={{ width: "25%" }} onClick={() => triggerPay()} className="btn btn-light d-none d-md-block">Buy with Nami</button>
+			<button type="button" style={{ width: "25%" }} onClick={() => triggerPay()} className="btn btn-light d-none d-md-block">Buy with Nami</button>
 		</>
 	);
 
