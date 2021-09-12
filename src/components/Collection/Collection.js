@@ -116,7 +116,7 @@ function Collection() {
 				</div>
 			</div>
 
-			{/* <h6 style={{ width: "100%", marginTop: "10vh" }} className="strong text-center">policy: 123456.............yy123456</h6> */}
+			<h6 style={{ width: "100%", marginTop: "10vh" }} className="strong text-center">policy: 8be48195b34601787ff4db3439198dab6f687eb2f12d8389da6c457f</h6>
 		</div>
 
 	);
