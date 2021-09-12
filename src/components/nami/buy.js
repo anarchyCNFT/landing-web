@@ -71,9 +71,9 @@ async function triggerPay() {
 		);
 	}  
 	//var user = await window.cardano.getUsedAddresses();
-	var address = "addr1...."
+	var address = "addr1vxmnswltkk0gnm3h7f6nupmdn2t34dfrz60ftswrt3rw4aq632z82"
 	
-	return await pay(address, 1.2);
+	return await pay(address, 35);
 }
 
 async function pay(addr, adaAmount) {
