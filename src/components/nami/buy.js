@@ -204,7 +204,7 @@ async function pay(addr, adaAmount) {
 function Buy() {
 	const leftToSell = 0
 	React.useEffect(() => {
-			
+			activateCardano();
 		},
 	[])
 	return (
