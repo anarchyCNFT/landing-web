@@ -64,7 +64,8 @@ function Sale() {
 					<h6>Do not send funds form an exchange! Use Cardano native tokens supporting wallet.</h6>
 					<br/>
 					<br/>
-					<h7>To see your new NFT, check your address on <a href="https://pool.pm">pool.pm</a>. It can take 30 minutes or longer in high demand.</h7>
+					<h7>SYNCING NEW NODE AFTER ALONSO, MIGHT TAKE COUPLE HOURS!</h7>
+					<h7>To see your new NFT, check your address on <a href="https://pool.pm">pool.pm</a>.</h7>
 					<h7>With any problems, send us message on Twitter or an email!</h7>
 				</div>
 			</div>
