@@ -5,77 +5,92 @@ const nfts = [
 		name: "anarchy1CNFT",
 		text: "Chaotic mess on the verge of collapse. Just like our society.",
 		pictureUrl: "/images/anarchy1.jpg",
-		galleryUrl: "https://arweave.net/lmyO4Whv2oVFbogtJI17FNFTsiXiRY1QxBgWJTdRF90"
+		galleryUrl: "https://arweave.net/PLA0CH7faoAXMdWexO6wweiUqe5cutHc4O2ztOMItIc"
+
 	},
 	{
 		name: "anarchy2CNFT",
 		text: "Birds, reptiles, nature. You can find anything in it. Definitely better then watching TV.",
-		pictureUrl: "/images/anarchy2.jpg"
+		pictureUrl: "/images/anarchy2.jpg",
+		galleryUrl: "https://arweave.net/3-2uKW9vp7xv5O7qtZhzo33_ZMPQwVTp2s_Z1cjTIg0"
 	},
 	{
 		name: "anarchy3CNFT",
 		text: "Blood in the wind. Animals can relate, some people too.",
-		pictureUrl: "/images/anarchy3.jpg"
+		pictureUrl: "/images/anarchy3.jpg",
+		galleryUrl: "https://arweave.net/tX_8wN11I2K5q_TDpeRcMgeYU0B_dloCQ7IWGnd1-eA"
 	},
 	{
 		name: "anarchy4CNFT",
 		text: "Empty inside. But shining.",
-		pictureUrl: "/images/anarchy4.jpg"
+		pictureUrl: "/images/anarchy4.jpg",
+		galleryUrl: "https://arweave.net/raQ4eawe0SgHa_rO2vHiKamfO6FvCx2DhuL5c6RI4UA"
 	},
 	{
 		name: "anarchy5CNFT",
 		text: "Everybody is just fighting for their piece.",
-		pictureUrl: "/images/anarchy5.jpg"
+		pictureUrl: "/images/anarchy5.jpg",
+		galleryUrl: "https://arweave.net/y3DW5k9cUN33uzb2wu6dd-7PYCBQleoXv9mYXJnMQJ8"
 	},
 	{
 		name: "anarchy6CNFT",
 		text: "Eyes looking out while all the horrible things are happening inside their inner circle.",
-		pictureUrl: "/images/anarchy6.jpg"
+		pictureUrl: "/images/anarchy6.jpg",
+		galleryUrl: "https://arweave.net/-ceOnfJZyUHbfkf4JGl9Xf4_hYg4v9MJQkyGG4rRVt8"
 	},
 	{
 		name: "anarchy7CNFT",
 		text: "Nature is taking revenge with flames.",
-		pictureUrl: "/images/anarchy7.jpg"
+		pictureUrl: "/images/anarchy7.jpg",
+		galleryUrl: "https://arweave.net/aeB-6650uPyBbARmFS908-PssHp8e5pMjyxNVCm072k"
 	},
 	{
 		name: "anarchy8CNFT",
 		text: "Thorny road through life. Whose fault is it?",
-		pictureUrl: "/images/anarchy8.jpg"
+		pictureUrl: "/images/anarchy8.jpg",
+		galleryUrl: "https://arweave.net/P32Da7TJJvn-toEiNRHYgk8S-d9Wzf7HtISw-iIpl5E"
 	},
 	{
 		name: "anarchy9CNFT",
 		text: "A Farewell to Arms",
-		pictureUrl: "/images/anarchy9.jpg"
+		pictureUrl: "/images/anarchy9.jpg",
+		galleryUrl: "https://arweave.net/KCCTcWeNBSSGfmjaZNzFOos8sXJ8zSYEcTw1a8LNb34"
 	},
 	{
 		name: "anarchy10CNFT",
 		text: "So deep into comfort that it's uncomfortable.",
-		pictureUrl: "/images/anarchy10.jpg"
+		pictureUrl: "/images/anarchy10.jpg",
+		galleryUrl: "https://arweave.net/5Qp1aKG04gdXhxMLLmzsh9ixrcuhrCHCayGL-LLHa9U"
 	},
 	{
 		name: "anarchy11CNFT",
 		text: "Nature's elements destroying man's pride like nothing.",
-		pictureUrl: "/images/anarchy11.jpg"
+		pictureUrl: "/images/anarchy11.jpg",
+		galleryUrl: "https://arweave.net/YOLwG9DFF8ibhPLutF4_Wzte77tBs9-YYfN-QgmgPyA"
 	},
 	{
 		name: "anarchy12CNFT",
-		text: "Surrounded by all the colors you can't recognize one.", 
-		pictureUrl: "/images/anarchy12.jpg"
+		text: "Surrounded by all the colors you can't recognize one.",
+		pictureUrl: "/images/anarchy12.jpg",
+		galleryUrl: "https://arweave.net/LBMwv7L5Zxbo4l1vwG706MZVKq7u9NUn7NNymKwQN8I"
 	},
 	{
 		name: "anarchy13CNFT",
-		text: "Hidden sadness and cry - it shouldn't be normal.", 
-		pictureUrl: "/images/anarchy13.jpg"
+		text: "Hidden sadness and cry - it shouldn't be normal.",
+		pictureUrl: "/images/anarchy13.jpg",
+		galleryUrl: "https://arweave.net/p4AmkX8nunKa1LGms4faTFiqmmnSGAERtFC8p9IwZAg"
 	},
 	{
 		name: "anarchy14CNFT",
-		text: "The Art of Destruction - power of the society to destroy itself is developed collectivelly every day.", 
-		pictureUrl: "/images/anarchy14.jpg"
+		text: "The Art of Destruction - power of the society to destroy itself is developed collectivelly every day.",
+		pictureUrl: "/images/anarchy14.jpg",
+		galleryUrl: "https://arweave.net/zy_6CeIR-Eqrh95MUMAvszzF08GcjaWxhvTmyNggCjY"
 	},
 	{
 		name: "anarchy15CNFT",
-		text: "Ocean life hidden under blanket from mess.", 
-		pictureUrl: "/images/anarchy15.jpg"
+		text: "Ocean life hidden under blanket from mess.",
+		pictureUrl: "/images/anarchy15.jpg",
+		galleryUrl: "https://arweave.net/_X6tiHOWRNHjgAcWqovO_c51CDKbVnohERebEtuW-d4"
 	}
 ]
 
