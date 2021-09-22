@@ -8,6 +8,13 @@ body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
+
 h1,
 h2,
 h3,
