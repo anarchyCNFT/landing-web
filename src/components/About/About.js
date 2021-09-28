@@ -12,7 +12,7 @@ export default function About() {
 						Aiming to create a safe place for unconventional art and support underground artists to share their messages with the world permanently.  Art is a powerful tool that can enable us to realize the truth and blockchain is the best place to save it.
 					</h6>
 					<br />
-					<h6><a className="btn btn-dark start start-two" href="#Collection">Collection</a></h6>
+					<h6><a className="btn btn-dark start start-two" href="https://medium.com/@anarchycnft/anarchycnft-art-anarchy-oriented-project-on-cardano-340028ea0a48" target="_blank">Read more</a></h6>
 				</div>
 				<div className="col-md-9 text-center">
 					<img className="img-fluid" src="/images/about.png" style={{float: "right"}} alt="anarchyCNFT First Collection"/>
