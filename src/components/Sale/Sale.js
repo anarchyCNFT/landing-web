@@ -61,7 +61,7 @@ function Sale() {
 					<p style={{ width: "100%" }} className="strong">35₳</p>
 					<Buy />
 					<br/>
-					<h6>Do not send funds form an exchange! Use Cardano native tokens supporting wallet.</h6>
+					<h6>Do not send funds from an exchange! Use Cardano native tokens supporting wallet.</h6>
 					<br/>
 					<br/>
 					<h7>To see your new NFT, check your address on <a href="https://pool.pm">pool.pm</a>. It can take 30 minutes or longer in high demand.</h7>
